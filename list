@@ -34,20 +34,6 @@
 "url": "http://goodtv.niccode.xyz/get.php?username=30Rosario01&password=240620232024&type=m3u_plus",
 "info":"",
 "import": false
-},
-{
-"name": "ℙ𝔼𝕃𝕀𝕊/𝕊𝔸𝔾𝔸𝕊",
-"image": "https://i.postimg.cc/9f0n4RCs/logo-cine.jpg",
-"url": "https://m3u.ch/pl/3c233c699ad765ce8de7de9ce2324322_c5dfaa0234122f1fa33a107eb63306ce.m3u",
-"info":"",
-"import": false
- },
- {
- "name": " 𝕋𝕆ℝ𝕆​",
- "image": "https://i.postimg.cc/RFhv6VZh/imagen-toro-reves.jpg",
- "url": "",
- "info":"",
- "import": false
 }
 ]
 }
